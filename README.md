@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋.
+### Just a noob here on githhub exploring intrests and trying to collaborate in open-source projects.
 
 <!--
 **noob-0609/noob-0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
